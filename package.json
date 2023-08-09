@@ -1,0 +1,7 @@
+{
+  "name": "@wcd/projxbynick.litelementts-ll416nme",
+  "version": "0.0.0",
+  "scripts": {
+    "serve": "npx wcd-cli@latest serve iIDZeCiEnwACKqC3EZvw --open"
+  }
+}
